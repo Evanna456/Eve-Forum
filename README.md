@@ -2,7 +2,7 @@
 
 >Under Construction
 
-A forum web app
+A forum web application.
 
 ## About Laravel
 
