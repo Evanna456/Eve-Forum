@@ -1,6 +1,4 @@
-## About Eve-Forum
-
-<p align="center"><img src="https://i.imgur.com/Ue24AVq.png"" width="150px" height="auto" alt="Logo"></a></p>
+## Eve-Forum
 
 >Under Construction
 
